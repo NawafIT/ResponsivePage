@@ -1,1 +1,1 @@
-# ResponsivePage
+# Made a simple responsive page
